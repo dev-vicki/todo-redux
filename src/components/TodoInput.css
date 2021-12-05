@@ -19,7 +19,8 @@
 .TodoInput button {
   padding: 0 1.3rem;
   border: none;
-  background: red;
+  border-radius: 15px;
+  background: #FC6DAB;
   color: white;
   text-transform: uppercase;
   font-weight: bold;
@@ -30,7 +31,7 @@
   outline: none;
 }
 .TodoInput button:hover {
-  background: rgba(0, 0, 0, 0.1);
+  background: #fc5c65;
 }
 .TodoInput input,
 .TodoInput button {
